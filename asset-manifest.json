@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/himanshudadheech/Translator-App-React/static/css/main.5c024f69.css",
+    "main.js": "/himanshudadheech/Translator-App-React/static/js/main.ecf89fe5.js",
+    "index.html": "/himanshudadheech/Translator-App-React/index.html",
+    "main.5c024f69.css.map": "/himanshudadheech/Translator-App-React/static/css/main.5c024f69.css.map",
+    "main.ecf89fe5.js.map": "/himanshudadheech/Translator-App-React/static/js/main.ecf89fe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c024f69.css",
+    "static/js/main.ecf89fe5.js"
+  ]
+}
